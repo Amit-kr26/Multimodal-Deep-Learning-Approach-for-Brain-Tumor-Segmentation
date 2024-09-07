@@ -10,3 +10,11 @@ This repository contains an advanced system designed for brain tumor segmentatio
 - **Survival Prediction**: Utilized deep learning models to predict survival outcomes based on tumor segmentation and other medical features.
 - **Dataset**: Based on the BraTS2020 dataset, including preprocessing steps and data augmentation techniques.
 - **Evaluation**: Metrics used for evaluating model performance such as Dice coefficient, sensitivity, specificity, and survival prediction accuracy.
+
+## 3D Brain MRI
+
+![Demo GIF](images/output.gif)
+
+## Screenshots
+
+![Segmentation Image](images/sample_output.png)
