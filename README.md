@@ -13,8 +13,8 @@ This repository contains an advanced system designed for brain tumor segmentatio
 
 ## 3D Brain MRI
 
-![Demo GIF](images/output.png)
+![Demo GIF](images/sample_output.gif)
 
 ## Screenshots
 
-![Segmentation Image](images/sample_output.png)
+![Segmentation Image](images/output.png)
